@@ -4,7 +4,7 @@ import {
   incrementCounter,
   decrementCounter,
   setName,
-} from '../../redux/actions';
+} from '../../redux/action-creators';
 import { connect } from 'react-redux';
 import { store, store2 } from '../../redux/store';
 
